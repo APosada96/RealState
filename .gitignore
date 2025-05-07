@@ -1,0 +1,45 @@
+# Ignore OS/IDE-specific files
+.DS_Store
+Thumbs.db
+.vscode/
+*.log
+
+# Ignore environment files (optional: if they contain secrets)
+.env
+.env.local
+.env.*.local
+
+# Ignore npm/Node artifacts
+**/node_modules/
+**/.next/
+**/.turbo/
+**/dist/
+**/coverage/
+**/out/
+
+# Ignore Next.js build output
+**/.next/
+**/next-env.d.ts
+
+# Ignore .NET build artifacts
+**/bin/
+**/obj/
+**/TestResults/
+**/*.user
+**/*.suo
+**/*.cache
+**/.vs/
+**/wwwroot/images/
+
+# Ignore Rider IDE files
+.idea/
+
+# Ignore test coverage outputs
+**/coverage/
+**/lcov-report/
+
+# Ignore backup files
+*.bak
+*.tmp
+*.swp
+*.swo
