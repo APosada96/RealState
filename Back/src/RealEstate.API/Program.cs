@@ -1,6 +1,6 @@
-using RealEstate.Application.Mappings;
 using RealEstate.Application.Services;
 using RealEstate.Domain.Interfaces;
+using RealEstate.Domain.Mappings;
 using RealEstate.Infrastructure.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);

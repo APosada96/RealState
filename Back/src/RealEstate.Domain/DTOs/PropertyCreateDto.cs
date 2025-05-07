@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 
-namespace RealEstate.Application.DTOs
+namespace RealEstate.Domain.DTOs
 {
     /// <summary>
     /// Represents the input data required to create a new property.

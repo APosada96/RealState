@@ -1,4 +1,4 @@
-﻿namespace RealEstate.Application.DTOs
+﻿namespace RealEstate.Domain.DTOs
 {
     /// <summary>
     /// Represents the data returned to clients for a property.

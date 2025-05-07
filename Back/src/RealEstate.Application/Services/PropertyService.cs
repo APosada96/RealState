@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using RealEstate.Application.DTOs;
+using RealEstate.Domain.DTOs;
 using RealEstate.Domain.Entities;
 using RealEstate.Domain.Interfaces;
 

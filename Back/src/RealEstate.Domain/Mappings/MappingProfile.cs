@@ -1,8 +1,8 @@
 ﻿using AutoMapper;
-using RealEstate.Application.DTOs;
+using RealEstate.Domain.DTOs;
 using RealEstate.Domain.Entities;
 
-namespace RealEstate.Application.Mappings
+namespace RealEstate.Domain.Mappings
 {
     /// <summary>
     /// AutoMapper profile that defines object-object mappings for the application.

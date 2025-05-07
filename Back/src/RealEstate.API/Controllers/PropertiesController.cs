@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
-using RealEstate.Application.DTOs;
 using RealEstate.Application.Services;
+using RealEstate.Domain.DTOs;
 
 namespace RealEstate.API.Controllers
 {
