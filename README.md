@@ -173,8 +173,7 @@ src/__tests__/components/
 
 #### 📦 Install Testing Packages
 ```bash
-npm install --save-dev jest @types/jest ts-jest jest-environment-jsdom \
-  @testing-library/react @testing-library/jest-dom @testing-library/user-event
+	npm install --save-dev jest @types/jest ts-jest jest-environment-jsdom @testing-library/react @testing-library/jest-dom @testing-library/user-event
 ```
 
 #### ⚙️ Run Frontend Tests
@@ -194,9 +193,7 @@ This will run all `.test.tsx` files under `src/__tests__/**`
 Make sure you have the following dev dependencies:
 
 ```bash
-npm install --save-dev jest @types/jest ts-jest \
-  @testing-library/react @testing-library/jest-dom @testing-library/user-event \
-  @testing-library/react-hooks jest-environment-jsdom ts-node
+	npm install --save-dev jest @types/jest ts-jest @testing-library/react @testing-library/jest-dom @testing-library/user-event @testing-library/react-hooks jest-environment-jsdom ts-node
 ```
 
 Ensure your `jest.config.ts` includes:
